@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently been learning **Full stack development in java**
   
-- 💻 All of my projects are available on [GitHub](https://github.com/dyamavva)
+- 💻 All of my projects are available on [GitHub](https://github.com/Dyamavva/2LG21CS008_DYAMAVVA_T-P_25_GEC_Talakal_ParvaM.git)
 
 - 💬 Ask me about **Programming, c,c++,css,html, python d jango,java**
 
@@ -14,7 +14,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyamavva&show_icons=true&locale=en" alt="dyamavva" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/Dyamavva/2LG21CS008_DYAMAVVA_T-P_25_GEC_Talakal_ParvaM.git&show_icons=true&locale=en" alt="dyamavva" /></p>
 <br>
 </div>
 <br>
